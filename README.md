@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jessikarochas (in almost every social media, except for YT where I am @JessikaRocha)
+- 👋 Hi, I’m @jessikarochas (in almost every social media, except for YT where I am [@JessikaRocha](https://www.youtube.com/JessikaRocha))
 - 👀 I’m interested in creativity, productivity and technology
 - 🌱 I’m always learning, reading and creating things
 - 💞️ I’m looking to collaborate on anything related to productivity, personal development and creativity
-- 📫 Reach me over on Instagram @jessikarochas
+- 📫 Reach me over on Instagram [@jessikarochas](http://instagram.com/jessikarochas)
 
 <!---
 jessikarochas/jessikarochas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
